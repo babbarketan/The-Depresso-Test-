@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237674521789",
+    "project_id": "thapar-8d2ef",
+    "storage_bucket": "thapar-8d2ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237674521789:android:3cc660dcb390bb6a6c43d4",
+        "android_client_info": {
+          "package_name": "com.example.thapar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RDCwKmb1RFHJ-qf_53Xosm_KAJoduaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
