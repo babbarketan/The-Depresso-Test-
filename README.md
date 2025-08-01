@@ -1,7 +1,33 @@
 # 🧠 MindCheck – The Depresso-TEST  
 *A Flutter-Based Mental Health Screening App*
+## 📱 App Screenshots
 
-![App Preview](./IMAGES/IMG-20250729-WA0034.jpg)
+### 🧪 Test Page
+![Test Page](./IMAGES/IMG-20250729-WA0034.jpg)
+
+### 📝 Test Selection
+![Test Selection](./IMAGES/IMG-20250729-WA0035.jpg)
+
+### ✅ Submission Flow
+![Submission Flow](./IMAGES/IMG-20250729-WA0036.jpg)
+
+### 📊 Result Graph
+![Graph Result](./IMAGES/IMG-20250729-WA0037.jpg)
+
+### 📈 Score Trend
+![Score Trend](./IMAGES/IMG-20250729-WA0038.jpg)
+
+### 🩺 Symptoms Library
+![Symptoms Info](./IMAGES/IMG-20250729-WA0039.jpg)
+
+### 🔁 Retest Prompt
+![Retest Prompt](./IMAGES/IMG-20250729-WA0040.jpg)
+
+### 🧾 Final Report
+![Final Report](./IMAGES/IMG-20250729-WA0041.jpg)
+
+### 💡 Tips / Info Page
+![Tips Page](./IMAGES/IMG-20250729-WA0042.jpg)
 
 **MindCheck** is a beautifully crafted Flutter application designed to assist users in performing quick, repeated self-assessments to track signs of depression and mental well-being. The app leverages psychological MCQ-based tests, an intuitive user experience, and visually rich analytics to provide a simple yet insightful approach to mental health tracking.
 
